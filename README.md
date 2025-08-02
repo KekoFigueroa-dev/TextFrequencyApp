@@ -22,7 +22,7 @@ It removes all non-letter characters, counts each letter’s occurrences, calcul
    ```
 3. **Run the program:**
    ```
-   python textfrequeny.py
+   python textfrequency.py
    ```
 
 4. **Follow the prompts to enter your phrases and view the analysis.**
